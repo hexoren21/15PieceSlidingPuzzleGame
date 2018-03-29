@@ -4,10 +4,12 @@ import javax.swing.*;
 import java.awt.*;
 
 public class NowyButon extends JButton {
+    private int position_button = 0;
     private Color background_button=null;
     private String text_number_button=null;
-    NowyButon(String name){
+    NowyButon(String name, int i){
         super(name);
+        position_button = i;
         text_number_button = name;
         background_button = Color.WHITE;
         this.setBackground(Color.WHITE);
@@ -25,5 +27,8 @@ public class NowyButon extends JButton {
     public void  setTextNumber_button(String number){
         this.text_number_button = number;
         this.setText(number);
+    }
+    public int getPosition_button(){
+        return position_button;
     }
 }

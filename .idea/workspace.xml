@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86726a67-0ecd-4a4b-9616-473c0f1e4248" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PuzzleGame.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/PuzzleGame/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/PuzzleGame/NowyButon.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/PuzzleGame/Wyglad.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/NowyButon.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Poruszanie.java" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/PuzzleGame/Poruszanie.class" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/PuzzleGame/NowyButon.class" afterPath="$PROJECT_DIR$/out/production/PuzzleGame/NowyButon.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/PuzzleGame/Wyglad.class" afterPath="$PROJECT_DIR$/out/production/PuzzleGame/Wyglad.class" />
+      <change beforePath="$PROJECT_DIR$/src/NowyButon.java" afterPath="$PROJECT_DIR$/src/NowyButon.java" />
+      <change beforePath="$PROJECT_DIR$/src/Poruszanie.java" afterPath="$PROJECT_DIR$/src/Poruszanie.java" />
       <change beforePath="$PROJECT_DIR$/src/Wyglad.java" afterPath="$PROJECT_DIR$/src/Wyglad.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,11 +39,13 @@
       <file leaf-file-name="Wyglad.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Wyglad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="73" column="37" lean-forward="false" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+            <state relative-caret-position="551">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1540#1549#0" expanded="true" />
+                <element signature="e#1386#1387#0" expanded="true" />
+                <element signature="e#1431#1432#0" expanded="true" />
+                <element signature="e#1586#1595#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,9 +54,13 @@
       <file leaf-file-name="Poruszanie.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Poruszanie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="380">
+              <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,14 +68,16 @@
       <file leaf-file-name="NowyButon.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NowyButon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="21">
+              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#952#953#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,8 +104,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/NowyButon.java" />
         <option value="$PROJECT_DIR$/src/Wyglad.java" />
+        <option value="$PROJECT_DIR$/src/NowyButon.java" />
         <option value="$PROJECT_DIR$/src/Poruszanie.java" />
       </list>
     </option>
@@ -290,15 +292,15 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32440946" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32440946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32440946" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869694" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10980967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -366,10 +368,12 @@
           <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -380,7 +384,9 @@
           <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1540#1549#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1586#1595#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -399,7 +405,9 @@
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1540#1549#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1586#1595#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -447,36 +455,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NowyButon.java">
+    <entry file="file://$PROJECT_DIR$/src/Wyglad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="551">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1586#1595#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Wyglad.java">
+    <entry file="file://$PROJECT_DIR$/src/NowyButon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="73" column="37" lean-forward="false" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+        <state relative-caret-position="21">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1540#1549#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Poruszanie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="380">
+          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
