@@ -5,6 +5,6 @@ public class Main {
         Wyglad gra = new Wyglad();
         gra.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         gra.setVisible(true);
-        gra.losowanie();
+        gra.lottery();
     }
 }
